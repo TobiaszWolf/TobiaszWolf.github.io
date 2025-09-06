@@ -8,3 +8,11 @@
 .f_anton {
   font-family: 'Anton';
 }
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  margin: 0.67em 0;
+}
