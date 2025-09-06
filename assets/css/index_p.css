@@ -13,6 +13,30 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 2em;
+  font-size: 3em;
   margin: 0.67em 0;
 }
+
+.cal {
+   width: 300px;
+   height: 400px;
+}
+
+#alma {
+  display: flex;
+}
+
+@media (min-width: 640px) {
+  .cal {
+    width: 600px;
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cal {
+    width: 900px;
+    height: 400px;
+  }
+}
+
