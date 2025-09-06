@@ -1,0 +1,6 @@
+title: Jekyll + Tailwind Starter
+baseurl: ""
+url: ""
+
+include:
+  - assets/css
